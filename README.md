@@ -24,4 +24,4 @@ Please check file "app.js" and "index.html" in the repository for code
 
 ![](https://github.com/jusnguyen03/UFOs/blob/master/static/images/Challenge11.png)
 
-![](https://github.com/jusnguyen03/UFOs/blob/master/static/images/Challenge11images.png)
+![](https://github.com/jusnguyen03/UFOs/blob/master/static/images/Challenge11filters.png)
